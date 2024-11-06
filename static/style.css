@@ -192,6 +192,17 @@ p {
     background-color: #d1c4e9;
     cursor: pointer;
 }
+.date-info {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.date-info h2 {
+    font-size: 1.6em;
+    color: #e63946;
+}
 
 /* Balloon effect */
 .balloons {
